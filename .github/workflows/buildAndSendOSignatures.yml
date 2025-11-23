@@ -5,7 +5,7 @@ on:
     branches:
       - 'master'
     paths:
-      - 'data/X.json'
+      - 'data/O.json'
       - 'templates/template.html'
 
 env:
